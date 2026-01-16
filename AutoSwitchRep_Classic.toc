@@ -1,9 +1,9 @@
-## Interface: 11303
-## Author: GoodGood
+## Interface: 20505
+## Author: Gromit
 ## Title: AutoSwitchRep_classic
 ## Notes: Automatically change Reputation bar to last gained reputation.
 ## Version: 1.0
-## X-Credits: GoodGood
+## X-Credits: Gromit
 
 Locale.lua
 AutoSwitchRep_Classic.lua
